@@ -239,8 +239,8 @@ int MyString::count = 0;
 int main()
 {
     //Task1
-    /*Drob obj(1, 1);
-    cout << obj * 3;*/
+    Drob obj(1, 1);
+    cout << obj * 3;
 
     //Task2
     MyString str("Hello");
